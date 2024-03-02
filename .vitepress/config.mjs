@@ -6,6 +6,7 @@ export default defineConfig({
   description: "自定义的新标签页，支持管理书签、海量壁纸、数据云同步等多种功能",
   // 主题相关配置
   head: [['link', { rel: 'icon', href: '/icon.png' }]],
+  assetsDir: './public',
   outDir:'./docs',
   base: '/OVO-Tab-Official-Web/',
   lastUpdated: true,
