@@ -20,8 +20,8 @@ export default defineConfig({
       {
         text: '安装',
         items: [
-          { text: '插件介绍', link: '/installHelp' },
-          { text: 'chrome安装', link: '/installHelp' }
+          { text: '插件介绍', link: '/installationHelp' },
+          { text: 'chrome安装', link: '/installationHelp' }
         ]
       },
       {
