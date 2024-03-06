@@ -8,7 +8,7 @@ export default defineConfig({
   head: [['link', { rel: 'icon', href: '/icon.png' }]],
   assetsDir: './public',
   outDir:'./docs',
-  base: '/OVO-Tab-Official-Web/',
+  // base: '/OVO-Tab-Official-Web/',
   lastUpdated: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
