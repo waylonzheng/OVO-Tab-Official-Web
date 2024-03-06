@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "vitepress dev",
-    "build": "vitepress build",
+    "build": "VITE_BASE_DIR=/ vitepress build",
+    "build:github": "VITE_BASE_DIR=/OVO-Tab-Official-Web/ vitepress build",
     "docs:preview": "vitepress preview"
   },
   "keywords": [],
