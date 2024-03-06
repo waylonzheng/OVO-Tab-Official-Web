@@ -24,20 +24,24 @@ export default defineConfig((({ command, mode }) => {
           text: '安装',
           items: [
             { text: '插件介绍', link: '/installationHelp' },
-            { text: 'chrome安装', link: '/installationHelp' }
+            { text: 'chrome安装', link: '/installationHelp.html#chrome插件版安装' },
+            { text: 'edge安装', link: '/installationHelp.html#edge插件版安装' },
+            { text:'网页版', link: '/installationHelp.html#网页版'},
+            { text: '压缩包下载', link: '/installationHelp.html#压缩包下载' },
           ]
         },
-        {
-          text: '使用',
-          items: [
-            { text: 'Markdown Examples', link: '/markdown-examples' },
-            { text: 'Runtime API Examples', link: '/api-examples' }
-          ]
-        },
+        // {
+        //   text: '使用',
+        //   items: [
+        //     { text: 'Markdown Examples', link: '/markdown-examples' },
+        //     { text: 'Runtime API Examples', link: '/api-examples' }
+        //   ]
+        // },
         {
           text: '关于',
           items: [
             { text: '隐私政策', link: '/privacyPolicy' },
+            { text: '联系站长', link: 'https://www.waylon.online'}
           ]
         }
       ],

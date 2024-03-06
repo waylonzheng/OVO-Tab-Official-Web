@@ -5,7 +5,7 @@ layout: home
 hero:
   name: OVO Tab
   text: 新标签页
-  tagline: 很抱歉，只是做了一件微不足道的事。
+  tagline: 很抱歉，只是做了一件微不足道的事情。
   image:
     src: /logo.svg
     alt: OVO Tab
