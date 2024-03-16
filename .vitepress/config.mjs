@@ -4,11 +4,11 @@ export default defineConfig((({ command, mode }) => {
   const { VITE_BASE_DIR } = loadEnv(mode, "./")
   return {
     title: "OVO Tab",
-    description: "自定义的新标签页，支持管理书签、海量壁纸、数据云同步等多种功能",
+    description: "管理您的新标签页，支持管理书签、海量壁纸、数据云同步等多种功能",
     // 主题相关配置
     head: [['link', { rel: 'icon', href: '/icon.png' }]],
     assetsDir: './public',
-    outDir:'./docs',
+    outDir:VITE_BASE_DIR === '/ovo/' ? './mine' : './docs',
     base: VITE_BASE_DIR,
     lastUpdated: true,
     themeConfig: {
