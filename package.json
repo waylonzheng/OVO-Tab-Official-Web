@@ -8,7 +8,7 @@
     "dev": "vitepress dev",
     "build": "VITE_BASE_DIR=/ vitepress build",
     "build:github": "VITE_BASE_DIR=/OVO-Tab-Official-Web/ vitepress build",
-    "build:mine": "VITE_BASE_DIR=/ovo/ vitepress build",
+    "build:mine": "VITE_BASE_DIR=/ovo-tab/ vitepress build",
     "docs:preview": "vitepress preview"
   },
   "keywords": [],

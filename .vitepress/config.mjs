@@ -8,7 +8,7 @@ export default defineConfig((({ command, mode }) => {
     // 主题相关配置
     head: [['link', { rel: 'icon', href: '/icon.png' }]],
     assetsDir: './public',
-    outDir:VITE_BASE_DIR === '/ovo/' ? './mine' : './docs',
+    outDir:VITE_BASE_DIR === '/ovo-tab/' ? './mine' : './docs',
     base: VITE_BASE_DIR,
     lastUpdated: true,
     themeConfig: {
