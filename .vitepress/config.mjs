@@ -6,7 +6,7 @@ export default defineConfig((({ command, mode }) => {
     title: "OVO Tab",
     description: "管理您的新标签页，支持管理书签、海量壁纸、数据云同步等多种功能",
     // 主题相关配置
-    head: [['link', { rel: 'icon', href: '/icon.png' }]],
+    head: [['link', { rel: 'icon', href: `${VITE_BASE_DIR}icon.png` }]],
     assetsDir: './public',
     outDir:VITE_BASE_DIR === '/ovo-tab/' ? './mine' : './docs',
     base: VITE_BASE_DIR,
