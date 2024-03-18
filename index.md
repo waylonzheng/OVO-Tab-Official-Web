@@ -14,6 +14,9 @@ hero:
       text: Chrome安装
       link: https://chromewebstore.google.com/detail/ovo-tab/difnfmjncgdjlefgflbjgdpbibdhmahl?hl=zh-CN&authuser=0
     - theme: brand
+      text: Edge安装
+      link: https://microsoftedge.microsoft.com/addons/detail/ovo-tab/oadoooaklpclenbanbfgijeomdhghohf
+    - theme: brand
       text: 网页版
       link: https://waylon.online/ovotab/newtab.html
     - theme: alt
@@ -28,3 +31,4 @@ features:
   - title: 数据云同步
     details:
 ---
+![3](/preview.jpg)
