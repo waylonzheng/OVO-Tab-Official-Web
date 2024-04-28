@@ -41,6 +41,7 @@ export default defineConfig((({ command, mode }) => {
           text: '关于',
           items: [
             { text: '隐私政策', link: '/privacyPolicy' },
+            { text: '合作推广', link: '/cooperation'},
             { text: '联系站长', link: 'https://www.waylon.online'}
           ]
         }
