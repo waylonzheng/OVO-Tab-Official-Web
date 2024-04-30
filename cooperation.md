@@ -9,5 +9,4 @@
 
 站长博客： [https://www.waylon.online](https://www.waylon.online)
 
-![logo](/logo.svg)
 <img src="/logo.svg" width="200" height="200">
