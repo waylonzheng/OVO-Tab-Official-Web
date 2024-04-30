@@ -10,7 +10,7 @@
     "build:github": "VITE_BASE_DIR=/OVO-Tab-Official-Web/ vitepress build",
     "build:mine": "VITE_BASE_DIR=/ovo-tab/ vitepress build",
     "docs:preview": "vitepress preview",
-    "build:all":"pnpm build && pnpm build:github && pnpm build:mine"
+    "build:all":"pnpm build:github && pnpm build:mine"
   },
   "keywords": [],
   "author": "",

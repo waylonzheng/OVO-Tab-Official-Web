@@ -5,8 +5,9 @@
 `网站推广`或`商务合作`，欢迎联系站长：
 
 站长微信：
-![wxqrcode.png](/wxqrcode.png)
+<img src="/wxqrcode.png" width="200" height="200">
 
 站长博客： [https://www.waylon.online](https://www.waylon.online)
 
 ![logo](/logo.svg)
+<img src="/logo.svg" width="200" height="200">
