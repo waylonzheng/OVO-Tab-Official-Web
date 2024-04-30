@@ -27,16 +27,15 @@ export default defineConfig((({ command, mode }) => {
             { text: 'chrome安装', link: '/installationHelp.html#chrome插件版安装' },
             { text: 'edge安装', link: '/installationHelp.html#edge插件版安装' },
             { text:'网页版', link: '/installationHelp.html#网页版'},
-            { text: '压缩包下载', link: '/installationHelp.html#压缩包下载' },
+            { text: '压缩包下载', link: '/installationHelp.html#压缩包下载' }
           ]
         },
-        // {
-        //   text: '使用',
-        //   items: [
-        //     { text: 'Markdown Examples', link: '/markdown-examples' },
-        //     { text: 'Runtime API Examples', link: '/api-examples' }
-        //   ]
-        // },
+        {
+          text: '使用',
+          items: [
+            { text: '更新指南', link: '/updateGuide.html'}
+          ]
+        },
         {
           text: '关于',
           items: [

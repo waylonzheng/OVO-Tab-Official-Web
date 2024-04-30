@@ -21,3 +21,6 @@ Edge: [https://microsoftedge.microsoft.com/addons/detail/ovo-tab/oadoooaklpclenb
 
 ### Edge
 ![update](/edge-update.jpg)
+
+### 压缩包更新
+如果遇到急需更新，但是平台还在审核迟迟无法更新的情况，可在官网下载压缩包，按照[压缩包下载](/cooperation.md#压缩包下载)当方式更新插件；[下载链接](https://www.waylon.online/ovotab/ovotab.zip)
