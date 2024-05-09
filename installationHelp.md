@@ -1,7 +1,7 @@
 # 安装教程
 OVO Tab新标签页支持Chrome插件版、Edge插件版以及网页版。
 ### Chrome插件版安装
-1. 点击进入OVO Tab新标签页的[Chrome扩展商店页面](https://chromewebstore.google.com/detail/ovo-tab/difnfmjncgdjlefgflbjgdpbibdhmahl)；
+1. 点击进入OVO Tab新标签页的[Chrome扩展商店页面](https://chromewebstore.google.com/detail/ovotab-%E6%96%B0%E6%A0%87%E7%AD%BE%E9%A1%B5/difnfmjncgdjlefgflbjgdpbibdhmahl?hl=zh-CN&utm_source=ext_sidebar)；
 2. 点击右上角的获取按钮进行安装；
 
 ![1](/chrome1.jpg)
