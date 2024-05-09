@@ -12,7 +12,7 @@ hero:
   actions:
     - theme: brand
       text: Chrome安装
-      link: https://chromewebstore.google.com/detail/ovo-tab/difnfmjncgdjlefgflbjgdpbibdhmahl?hl=zh-CN&authuser=0
+      link: https://chromewebstore.google.com/detail/ovotab-%E6%96%B0%E6%A0%87%E7%AD%BE%E9%A1%B5/difnfmjncgdjlefgflbjgdpbibdhmahl?hl=zh-CN&utm_source=ext_sidebar
     - theme: brand
       text: Edge安装
       link: https://microsoftedge.microsoft.com/addons/detail/ovo-tab/oadoooaklpclenbanbfgijeomdhghohf
